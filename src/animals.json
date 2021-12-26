@@ -1,0 +1,104 @@
+{
+  "animals": [
+    {
+      "name": "White Shepherd",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "1"
+    },
+    {
+      "name": "Istrian Shorthaired Hound",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "2"
+    },
+    {
+      "name": "Swedish Lapphund",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "3"
+    },
+    {
+      "name": "Pug",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "4"
+    },
+    {
+      "name": "Sinhala Hound",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "5"
+    },
+    {
+      "name": "Austrian Pinscher",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "6"
+    },
+    {
+      "name": "English Setter",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "7"
+    },
+    {
+      "name": "Paisley Terrier",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "8"
+    },
+    {
+      "name": "Saint Hubert Jura Hound",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "9"
+    },
+    {
+      "name": "Portuguese Pointer",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "10"
+    },
+    {
+      "name": "Sabueso Español",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "11"
+    },
+    {
+      "name": "Bulldog",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "12"
+    },
+    {
+      "name": "Carolina Dog",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "13"
+    },
+    {
+      "name": "Drentse Patrijshond",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "14"
+    },
+    {
+      "name": "Swedish Elkhound",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "15"
+    },
+    {
+      "name": "American Water Spaniel",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "16"
+    },
+    {
+      "name": "Stabyhoun",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "17"
+    },
+    {
+      "name": "Banjara Hound",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "18"
+    },
+    {
+      "name": "Sinhala Hound",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "19"
+    },
+    {
+      "name": "Löwchen",
+      "avatar": "http://placeimg.com/640/480/animals",
+      "id": "20"
+    }
+  ]
+}
